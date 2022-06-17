@@ -1,0 +1,25 @@
+#pay1{
+  width: 100%;
+  height: 500px;
+  /* border: 1px solid red; */
+  display: flex;
+  margin-bottom: 20px;
+}
+#pay2{
+  /* border: 1px solid red; */
+  width: 30%;
+  height: 500px;
+  margin-left: 260px;
+  display: flex;
+
+}
+#pay3{
+  /* border: 1px solid red; */
+  width: 30%;
+  height: 500px;
+}
+#imglast{
+  width: 100%;
+  height: 50%;
+  margin-top: 100px;
+}
